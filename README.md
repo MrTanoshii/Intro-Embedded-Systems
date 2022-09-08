@@ -1,6 +1,6 @@
 # Intro to Embeddeded Systems
 
-This repository holds the content of an Introduction to Embeddeded Systems Workshop.
+This repository holds the content of an Introduction to Embedded Systems Workshop.
 
 The [Presentation (pdf)](docs/Embedded%20Systems%20Workshop%202022Sem2%20Final%20v1.pdf) contains the list of materials and goes through the activities; also available in the repo.
 
